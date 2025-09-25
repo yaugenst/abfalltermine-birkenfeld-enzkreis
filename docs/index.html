@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Abfalltermine Birkenfeld (Enzkreis)</title>
+    <style>
+      :root {
+        color-scheme: light dark;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        line-height: 1.5;
+      }
+      body {
+        margin: 0;
+        padding: 2rem 1.5rem 4rem;
+        max-width: 60rem;
+        margin-inline: auto;
+      }
+      h1 {
+        font-size: clamp(2rem, 4vw, 2.6rem);
+        margin-bottom: 0.5rem;
+      }
+      p {
+        margin-top: 0.5rem;
+      }
+      ul {
+        padding-left: 1.2rem;
+      }
+      .calendar-list {
+        margin: 2rem 0;
+      }
+      .calendar-item {
+        border: 1px solid color-mix(in srgb, currentColor 25%, transparent);
+        border-radius: 0.75rem;
+        padding: 1rem 1.25rem;
+        display: flex;
+        flex-direction: column;
+        gap: 0.6rem;
+        margin-bottom: 1rem;
+      }
+      .calendar-links {
+        display: flex;
+        gap: 0.75rem;
+        flex-wrap: wrap;
+      }
+      .calendar-links a,
+      .calendar-links button {
+        border-radius: 999px;
+        padding: 0.4rem 0.9rem;
+        text-decoration: none;
+        border: 1px solid currentColor;
+        color: inherit;
+        background: transparent;
+        cursor: pointer;
+      }
+      .calendar-links button:hover,
+      .calendar-links a:hover {
+        background: color-mix(in srgb, currentColor 12%, transparent);
+      }
+      .calendar-url {
+        font-family: ui-monospace, SFMono-Regular, SFMono, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+        word-break: break-all;
+        font-size: 0.95rem;
+      }
+      .notice {
+        font-size: 0.9rem;
+        color: color-mix(in srgb, currentColor 65%, transparent);
+      }
+      footer {
+        margin-top: 3rem;
+        font-size: 0.9rem;
+        color: color-mix(in srgb, currentColor 60%, transparent);
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>Abfalltermine Birkenfeld (Enzkreis)</h1>
+      <p>
+        Diese Kalender werden automatisch aus dem offiziellen
+        <a href="https://www.birkenfeld-enzkreis.de/abfallkalender/">Abfallkalender der Gemeinde</a>
+        erzeugt und täglich aktualisiert.
+      </p>
+    </header>
+    <main>
+      <section class="calendar-list">
+        <h2>Kalender abonnieren</h2>
+        <p class="notice">
+          Tipp: Ein Klick auf „In Google Kalender öffnen" kopiert den Link in die Zwischenablage und
+          öffnet die Google-Seite „Kalender per URL hinzufügen“. Füge den kopierten Link dort ein und
+          bestätige.
+        </p>
+        <div class="calendar-item" data-url="https://yaugenst.github.io/abfalltermine-birkenfeld-enzkreis/birkenfeld.ics">
+          <h3>Birkenfeld</h3>
+          <div class="calendar-url">https://yaugenst.github.io/abfalltermine-birkenfeld-enzkreis/birkenfeld.ics</div>
+          <div class="calendar-links">
+            <a href="birkenfeld.ics">ICS herunterladen</a>
+            <a
+              class="gcal-link"
+              href="https://calendar.google.com/calendar/u/0/r/settings/addbyurl"
+              target="_blank"
+              rel="noopener"
+            >
+              In Google Kalender öffnen
+            </a>
+            <button type="button" class="copy-btn">Link kopieren</button>
+          </div>
+        </div>
+        <div class="calendar-item" data-url="https://yaugenst.github.io/abfalltermine-birkenfeld-enzkreis/grafenhausen.ics">
+          <h3>Gräfenhausen</h3>
+          <div class="calendar-url">https://yaugenst.github.io/abfalltermine-birkenfeld-enzkreis/grafenhausen.ics</div>
+          <div class="calendar-links">
+            <a href="grafenhausen.ics">ICS herunterladen</a>
+            <a
+              class="gcal-link"
+              href="https://calendar.google.com/calendar/u/0/r/settings/addbyurl"
+              target="_blank"
+              rel="noopener"
+            >
+              In Google Kalender öffnen
+            </a>
+            <button type="button" class="copy-btn">Link kopieren</button>
+          </div>
+        </div>
+        <div class="calendar-item" data-url="https://yaugenst.github.io/abfalltermine-birkenfeld-enzkreis/recyclinghof.ics">
+          <h3>Recyclinghof Birkenfeld</h3>
+          <p>Enthält Öffnungs-/Terminslots des Recyclinghofs.</p>
+          <div class="calendar-url">https://yaugenst.github.io/abfalltermine-birkenfeld-enzkreis/recyclinghof.ics</div>
+          <div class="calendar-links">
+            <a href="recyclinghof.ics">ICS herunterladen</a>
+            <a
+              class="gcal-link"
+              href="https://calendar.google.com/calendar/u/0/r/settings/addbyurl"
+              target="_blank"
+              rel="noopener"
+            >
+              In Google Kalender öffnen
+            </a>
+            <button type="button" class="copy-btn">Link kopieren</button>
+          </div>
+        </div>
+        <div class="calendar-item" data-url="https://yaugenst.github.io/abfalltermine-birkenfeld-enzkreis/alle.ics">
+          <h3>Alle Termine kombiniert</h3>
+          <div class="calendar-url">https://yaugenst.github.io/abfalltermine-birkenfeld-enzkreis/alle.ics</div>
+          <div class="calendar-links">
+            <a href="alle.ics">ICS herunterladen</a>
+            <a
+              class="gcal-link"
+              href="https://calendar.google.com/calendar/u/0/r/settings/addbyurl"
+              target="_blank"
+              rel="noopener"
+            >
+              In Google Kalender öffnen
+            </a>
+            <button type="button" class="copy-btn">Link kopieren</button>
+          </div>
+        </div>
+      </section>
+
+      <section>
+        <h2>Alternative Kalender-Apps</h2>
+        <ul>
+          <li>
+            Apple Kalender / iOS: "Kalender" ➝ "Kalender hinzufügen" ➝ "Abonnierten Kalender hinzufügen"
+            und die gewünschte ICS-URL einfügen.
+          </li>
+          <li>
+            Outlook: "Kalender hinzufügen" ➝ "Aus dem Internet" und die ICS-URL einfügen.
+          </li>
+        </ul>
+      </section>
+    </main>
+    <footer>
+      <p>
+        Projektquelle: <a href="https://github.com/yaugenst/abfalltermine-birkenfeld-enzkreis">GitHub-Repository</a> ·
+        Lizenz: MIT
+      </p>
+      <p class="notice" id="copy-notice" hidden></p>
+    </footer>
+    <script>
+      const notice = document.getElementById("copy-notice");
+
+      async function copyLink(container) {
+        const url = container?.dataset.url;
+        if (!url) {
+          return false;
+        }
+        try {
+          await navigator.clipboard.writeText(url);
+          notice.hidden = false;
+          notice.textContent = "Link wurde in die Zwischenablage kopiert.";
+          setTimeout(() => {
+            notice.hidden = true;
+          }, 2500);
+          return true;
+        } catch (error) {
+          notice.hidden = false;
+          notice.textContent = "Kopieren nicht möglich – bitte Link markieren und kopieren.";
+          setTimeout(() => {
+            notice.hidden = true;
+          }, 3500);
+          return false;
+        }
+      }
+
+      document.querySelectorAll(".copy-btn").forEach((button) => {
+        button.addEventListener("click", async (event) => {
+          const container = event.currentTarget.closest(".calendar-item");
+          await copyLink(container);
+        });
+      });
+
+      document.querySelectorAll(".gcal-link").forEach((link) => {
+        link.addEventListener("click", async (event) => {
+          const container = event.currentTarget.closest(".calendar-item");
+          const copied = await copyLink(container);
+          if (copied) {
+            notice.hidden = false;
+            notice.textContent = "Link kopiert – füge ihn in Google Kalender ein.";
+            setTimeout(() => {
+              notice.hidden = true;
+            }, 3500);
+          }
+        });
+      });
+    </script>
+  </body>
+</html>

@@ -1,0 +1,41 @@
+[project]
+name = "abfalltermine-birkenfeld-enzkreis"
+version = "0.1.0"
+description = "ICS-Kalender für die Abfalltermine der Gemeinde Birkenfeld (Enzkreis)"
+authors = [{ name = "Yannick Augenstein" }]
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.optional-dependencies]
+dev = [
+  "ruff>=0.6.0",
+]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.ruff.format]
+quote-style = "double"
+indent-style = "space"
+line-ending = "lf"
+
+[tool.ruff.lint]
+select = [
+  "E",
+  "F",
+  "W",
+  "I",
+  "UP",
+  "B",
+  "RUF100",
+]
+
+[tool.ruff.lint.per-file-ignores]
+"docs/*.ics" = ["ALL"]
+".github/workflows/*.yml" = ["ALL"]
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
