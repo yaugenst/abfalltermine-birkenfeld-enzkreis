@@ -34,6 +34,6 @@ This repository generates and publishes ICS calendars for die Gemeinde Birkenfel
 - Expect future years: the data presently covers late 2025. Handle empty or evolving schema gracefully.
 
 ## Collaboration
-- During active iteration we amend & force-push; once stable, prefer additive commits for traceability.
+- Create feature branches for changes and open pull requests; avoid amending or force-pushing main.
 - Keep README and the landing page instructions up to date—they are user-facing.
 - When adding features, favour clarity over cleverness. The goal is a maintainable public feed, not a complex app.
