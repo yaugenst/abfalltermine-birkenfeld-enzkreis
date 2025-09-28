@@ -10,238 +10,238 @@ X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:6167@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Bio- / Restmüll
-DTSTAMP:20250927T040909Z
+DTSTAMP:20250928T040914Z
 DTSTART;VALUE=DATE:20250930
 DTEND;VALUE=DATE:20251001
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Bio- / Restmüll\nGebiet: Birkenfeld\nStand: 2025-09-27\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250927T040909Z
+DESCRIPTION:Abfuhrart: Bio- / Restmüll\nGebiet: Birkenfeld\nStand: 2025-09-28\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
+LAST-MODIFIED:20250928T040914Z
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6169@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Glas
-DTSTAMP:20250927T040909Z
+DTSTAMP:20250928T040914Z
 DTSTART;VALUE=DATE:20251004
 DTEND;VALUE=DATE:20251005
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Glas\nGebiet: Birkenfeld\nStand: 2025-09-27\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250927T040909Z
+DESCRIPTION:Abfuhrart: Glas\nGebiet: Birkenfeld\nStand: 2025-09-28\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
+LAST-MODIFIED:20250928T040914Z
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6171@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Bio- / Restmüll
-DTSTAMP:20250927T040909Z
+DTSTAMP:20250928T040914Z
 DTSTART;VALUE=DATE:20251014
 DTEND;VALUE=DATE:20251015
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Bio- / Restmüll\nGebiet: Birkenfeld\nStand: 2025-09-27\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250927T040909Z
+DESCRIPTION:Abfuhrart: Bio- / Restmüll\nGebiet: Birkenfeld\nStand: 2025-09-28\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
+LAST-MODIFIED:20250928T040914Z
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6173@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Papier
-DTSTAMP:20250927T040909Z
+DTSTAMP:20250928T040914Z
 DTSTART;VALUE=DATE:20251023
 DTEND;VALUE=DATE:20251024
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Papier\nGebiet: Birkenfeld\nStand: 2025-09-27\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250927T040909Z
+DESCRIPTION:Abfuhrart: Papier\nGebiet: Birkenfeld\nStand: 2025-09-28\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
+LAST-MODIFIED:20250928T040914Z
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6175@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Leichtverpackungen
-DTSTAMP:20250927T040909Z
+DTSTAMP:20250928T040914Z
 DTSTART;VALUE=DATE:20251024
 DTEND;VALUE=DATE:20251025
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Leichtverpackungen\nGebiet: Birkenfeld\nStand: 2025-09-27\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250927T040909Z
+DESCRIPTION:Abfuhrart: Leichtverpackungen\nGebiet: Birkenfeld\nStand: 2025-09-28\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
+LAST-MODIFIED:20250928T040914Z
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6177@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Bio- / Restmüll
-DTSTAMP:20250927T040909Z
+DTSTAMP:20250928T040914Z
 DTSTART;VALUE=DATE:20251028
 DTEND;VALUE=DATE:20251029
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Bio- / Restmüll\nGebiet: Birkenfeld\nStand: 2025-09-27\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250927T040909Z
+DESCRIPTION:Abfuhrart: Bio- / Restmüll\nGebiet: Birkenfeld\nStand: 2025-09-28\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
+LAST-MODIFIED:20250928T040914Z
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6179@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Glas
-DTSTAMP:20250927T040909Z
+DTSTAMP:20250928T040914Z
 DTSTART;VALUE=DATE:20251031
 DTEND;VALUE=DATE:20251101
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Glas\nGebiet: Birkenfeld\nStand: 2025-09-27\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250927T040909Z
+DESCRIPTION:Abfuhrart: Glas\nGebiet: Birkenfeld\nStand: 2025-09-28\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
+LAST-MODIFIED:20250928T040914Z
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6181@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Bio- / Restmüll
-DTSTAMP:20250927T040909Z
+DTSTAMP:20250928T040914Z
 DTSTART;VALUE=DATE:20251111
 DTEND;VALUE=DATE:20251112
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Bio- / Restmüll\nGebiet: Birkenfeld\nStand: 2025-09-27\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250927T040909Z
+DESCRIPTION:Abfuhrart: Bio- / Restmüll\nGebiet: Birkenfeld\nStand: 2025-09-28\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
+LAST-MODIFIED:20250928T040914Z
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6183@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Papier
-DTSTAMP:20250927T040909Z
+DTSTAMP:20250928T040914Z
 DTSTART;VALUE=DATE:20251120
 DTEND;VALUE=DATE:20251121
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Papier\nGebiet: Birkenfeld\nStand: 2025-09-27\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250927T040909Z
+DESCRIPTION:Abfuhrart: Papier\nGebiet: Birkenfeld\nStand: 2025-09-28\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
+LAST-MODIFIED:20250928T040914Z
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6185@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Leichtverpackungen
-DTSTAMP:20250927T040909Z
+DTSTAMP:20250928T040914Z
 DTSTART;VALUE=DATE:20251121
 DTEND;VALUE=DATE:20251122
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Leichtverpackungen\nGebiet: Birkenfeld\nStand: 2025-09-27\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250927T040909Z
+DESCRIPTION:Abfuhrart: Leichtverpackungen\nGebiet: Birkenfeld\nStand: 2025-09-28\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
+LAST-MODIFIED:20250928T040914Z
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6187@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Bio- / Restmüll
-DTSTAMP:20250927T040909Z
+DTSTAMP:20250928T040914Z
 DTSTART;VALUE=DATE:20251125
 DTEND;VALUE=DATE:20251126
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Bio- / Restmüll\nGebiet: Birkenfeld\nStand: 2025-09-27\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250927T040909Z
+DESCRIPTION:Abfuhrart: Bio- / Restmüll\nGebiet: Birkenfeld\nStand: 2025-09-28\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
+LAST-MODIFIED:20250928T040914Z
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6189@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Glas
-DTSTAMP:20250927T040909Z
+DTSTAMP:20250928T040914Z
 DTSTART;VALUE=DATE:20251128
 DTEND;VALUE=DATE:20251129
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Glas\nGebiet: Birkenfeld\nStand: 2025-09-27\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250927T040909Z
+DESCRIPTION:Abfuhrart: Glas\nGebiet: Birkenfeld\nStand: 2025-09-28\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
+LAST-MODIFIED:20250928T040914Z
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6191@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Bio- / Restmüll
-DTSTAMP:20250927T040909Z
+DTSTAMP:20250928T040914Z
 DTSTART;VALUE=DATE:20251209
 DTEND;VALUE=DATE:20251210
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Bio- / Restmüll\nGebiet: Birkenfeld\nStand: 2025-09-27\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250927T040909Z
+DESCRIPTION:Abfuhrart: Bio- / Restmüll\nGebiet: Birkenfeld\nStand: 2025-09-28\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
+LAST-MODIFIED:20250928T040914Z
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6193@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Papier
-DTSTAMP:20250927T040909Z
+DTSTAMP:20250928T040914Z
 DTSTART;VALUE=DATE:20251218
 DTEND;VALUE=DATE:20251219
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Papier\nGebiet: Birkenfeld\nStand: 2025-09-27\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250927T040909Z
+DESCRIPTION:Abfuhrart: Papier\nGebiet: Birkenfeld\nStand: 2025-09-28\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
+LAST-MODIFIED:20250928T040914Z
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6195@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Leichtverpackungen
-DTSTAMP:20250927T040909Z
+DTSTAMP:20250928T040914Z
 DTSTART;VALUE=DATE:20251219
 DTEND;VALUE=DATE:20251220
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Leichtverpackungen\nGebiet: Birkenfeld\nStand: 2025-09-27\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250927T040909Z
+DESCRIPTION:Abfuhrart: Leichtverpackungen\nGebiet: Birkenfeld\nStand: 2025-09-28\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
+LAST-MODIFIED:20250928T040914Z
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6197@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Bio- / Restmüll
-DTSTAMP:20250927T040909Z
+DTSTAMP:20250928T040914Z
 DTSTART;VALUE=DATE:20251223
 DTEND;VALUE=DATE:20251224
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Bio- / Restmüll\nGebiet: Birkenfeld\nStand: 2025-09-27\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250927T040909Z
+DESCRIPTION:Abfuhrart: Bio- / Restmüll\nGebiet: Birkenfeld\nStand: 2025-09-28\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
+LAST-MODIFIED:20250928T040914Z
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6199@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Glas
-DTSTAMP:20250927T040909Z
+DTSTAMP:20250928T040914Z
 DTSTART;VALUE=DATE:20251230
 DTEND;VALUE=DATE:20251231
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Glas\nGebiet: Birkenfeld\nStand: 2025-09-27\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250927T040909Z
+DESCRIPTION:Abfuhrart: Glas\nGebiet: Birkenfeld\nStand: 2025-09-28\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
+LAST-MODIFIED:20250928T040914Z
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
