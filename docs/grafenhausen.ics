@@ -10,238 +10,221 @@ X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:6168@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Bio- / Restmüll
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251001T000000Z
 DTSTART;VALUE=DATE:20251001
 DTEND;VALUE=DATE:20251002
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Bio- / Restmüll\nGebiet: Gräfenhausen\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Bio- / Restmüll\nGebiet: Gräfenhausen\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6170@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Glas
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251004T000000Z
 DTSTART;VALUE=DATE:20251004
 DTEND;VALUE=DATE:20251005
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Glas\nGebiet: Gräfenhausen\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Glas\nGebiet: Gräfenhausen\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6172@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Bio- / Restmüll
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251015T000000Z
 DTSTART;VALUE=DATE:20251015
 DTEND;VALUE=DATE:20251016
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Bio- / Restmüll\nGebiet: Gräfenhausen\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Bio- / Restmüll\nGebiet: Gräfenhausen\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6174@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Papier
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251023T000000Z
 DTSTART;VALUE=DATE:20251023
 DTEND;VALUE=DATE:20251024
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Papier\nGebiet: Gräfenhausen\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Papier\nGebiet: Gräfenhausen\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6176@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Leichtverpackungen
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251024T000000Z
 DTSTART;VALUE=DATE:20251024
 DTEND;VALUE=DATE:20251025
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Leichtverpackungen\nGebiet: Gräfenhausen\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Leichtverpackungen\nGebiet: Gräfenhausen\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6178@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Bio- / Restmüll
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251029T000000Z
 DTSTART;VALUE=DATE:20251029
 DTEND;VALUE=DATE:20251030
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Bio- / Restmüll\nGebiet: Gräfenhausen\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Bio- / Restmüll\nGebiet: Gräfenhausen\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6180@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Glas
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251031T000000Z
 DTSTART;VALUE=DATE:20251031
 DTEND;VALUE=DATE:20251101
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Glas\nGebiet: Gräfenhausen\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Glas\nGebiet: Gräfenhausen\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6182@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Bio- / Restmüll
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251112T000000Z
 DTSTART;VALUE=DATE:20251112
 DTEND;VALUE=DATE:20251113
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Bio- / Restmüll\nGebiet: Gräfenhausen\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Bio- / Restmüll\nGebiet: Gräfenhausen\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6184@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Papier
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251120T000000Z
 DTSTART;VALUE=DATE:20251120
 DTEND;VALUE=DATE:20251121
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Papier\nGebiet: Gräfenhausen\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Papier\nGebiet: Gräfenhausen\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6186@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Leichtverpackungen
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251121T000000Z
 DTSTART;VALUE=DATE:20251121
 DTEND;VALUE=DATE:20251122
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Leichtverpackungen\nGebiet: Gräfenhausen\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Leichtverpackungen\nGebiet: Gräfenhausen\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6188@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Bio- / Restmüll
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251126T000000Z
 DTSTART;VALUE=DATE:20251126
 DTEND;VALUE=DATE:20251127
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Bio- / Restmüll\nGebiet: Gräfenhausen\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Bio- / Restmüll\nGebiet: Gräfenhausen\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6190@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Glas
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251128T000000Z
 DTSTART;VALUE=DATE:20251128
 DTEND;VALUE=DATE:20251129
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Glas\nGebiet: Gräfenhausen\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Glas\nGebiet: Gräfenhausen\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6192@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Bio- / Restmüll
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251210T000000Z
 DTSTART;VALUE=DATE:20251210
 DTEND;VALUE=DATE:20251211
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Bio- / Restmüll\nGebiet: Gräfenhausen\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Bio- / Restmüll\nGebiet: Gräfenhausen\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6194@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Papier
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251218T000000Z
 DTSTART;VALUE=DATE:20251218
 DTEND;VALUE=DATE:20251219
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Papier\nGebiet: Gräfenhausen\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Papier\nGebiet: Gräfenhausen\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6196@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Leichtverpackungen
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251219T000000Z
 DTSTART;VALUE=DATE:20251219
 DTEND;VALUE=DATE:20251220
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Leichtverpackungen\nGebiet: Gräfenhausen\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Leichtverpackungen\nGebiet: Gräfenhausen\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6198@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Bio- / Restmüll
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251227T000000Z
 DTSTART;VALUE=DATE:20251227
 DTEND;VALUE=DATE:20251228
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Bio- / Restmüll\nGebiet: Gräfenhausen\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Bio- / Restmüll\nGebiet: Gräfenhausen\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6200@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Glas
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251230T000000Z
 DTSTART;VALUE=DATE:20251230
 DTEND;VALUE=DATE:20251231
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Glas\nGebiet: Gräfenhausen\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Glas\nGebiet: Gräfenhausen\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT

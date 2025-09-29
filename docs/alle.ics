@@ -10,966 +10,897 @@ X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:6167@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Bio- / Restmüll
-DTSTAMP:20250929T040939Z
+DTSTAMP:20250930T000000Z
 DTSTART;VALUE=DATE:20250930
 DTEND;VALUE=DATE:20251001
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Bio- / Restmüll\nGebiet: Birkenfeld\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Bio- / Restmüll\nGebiet: Birkenfeld\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6168@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Bio- / Restmüll
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251001T000000Z
 DTSTART;VALUE=DATE:20251001
 DTEND;VALUE=DATE:20251002
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Bio- / Restmüll\nGebiet: Gräfenhausen\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Bio- / Restmüll\nGebiet: Gräfenhausen\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6036@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Recyclinghof
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251001T000000Z
 DTSTART;VALUE=DATE:20251001
 DTEND;VALUE=DATE:20251002
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 09:00 - 12:30 Uhr\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 09:00 - 12:30 Uhr\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6037@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Recyclinghof
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251002T000000Z
 DTSTART;VALUE=DATE:20251002
 DTEND;VALUE=DATE:20251003
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 09:00 - 12:30 Uhr\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
-STATUS:CONFIRMED
-URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
-END:VEVENT
-BEGIN:VEVENT
-UID:6170@abfalltermine-birkenfeld-enzkreis
-SUMMARY:Glas
-DTSTAMP:20250929T040939Z
-DTSTART;VALUE=DATE:20251004
-DTEND;VALUE=DATE:20251005
-CATEGORIES:Abfallentsorgung
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Glas\nGebiet: Gräfenhausen\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 09:00 - 12:30 Uhr\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6169@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Glas
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251004T000000Z
 DTSTART;VALUE=DATE:20251004
 DTEND;VALUE=DATE:20251005
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Glas\nGebiet: Birkenfeld\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Glas\nGebiet: Birkenfeld\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
+STATUS:CONFIRMED
+URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:6170@abfalltermine-birkenfeld-enzkreis
+SUMMARY:Glas
+DTSTAMP:20251004T000000Z
+DTSTART;VALUE=DATE:20251004
+DTEND;VALUE=DATE:20251005
+CATEGORIES:Abfallentsorgung
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+DESCRIPTION:Abfuhrart: Glas\nGebiet: Gräfenhausen\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6038@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Recyclinghof
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251004T000000Z
 DTSTART;VALUE=DATE:20251004
 DTEND;VALUE=DATE:20251005
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 13:00 - 16:00 Uhr\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 13:00 - 16:00 Uhr\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6039@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Recyclinghof
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251008T000000Z
 DTSTART;VALUE=DATE:20251008
 DTEND;VALUE=DATE:20251009
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 14:00 - 17:30 Uhr\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 14:00 - 17:30 Uhr\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6040@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Recyclinghof
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251009T000000Z
 DTSTART;VALUE=DATE:20251009
 DTEND;VALUE=DATE:20251010
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 09:00 - 12:30 Uhr\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 09:00 - 12:30 Uhr\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6041@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Recyclinghof
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251011T000000Z
 DTSTART;VALUE=DATE:20251011
 DTEND;VALUE=DATE:20251012
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 08:30 - 11:30 Uhr\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 08:30 - 11:30 Uhr\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6171@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Bio- / Restmüll
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251014T000000Z
 DTSTART;VALUE=DATE:20251014
 DTEND;VALUE=DATE:20251015
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Bio- / Restmüll\nGebiet: Birkenfeld\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Bio- / Restmüll\nGebiet: Birkenfeld\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6172@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Bio- / Restmüll
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251015T000000Z
 DTSTART;VALUE=DATE:20251015
 DTEND;VALUE=DATE:20251016
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Bio- / Restmüll\nGebiet: Gräfenhausen\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Bio- / Restmüll\nGebiet: Gräfenhausen\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6042@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Recyclinghof
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251015T000000Z
 DTSTART;VALUE=DATE:20251015
 DTEND;VALUE=DATE:20251016
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 14:00 - 17:30 Uhr\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 14:00 - 17:30 Uhr\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6043@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Recyclinghof
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251017T000000Z
 DTSTART;VALUE=DATE:20251017
 DTEND;VALUE=DATE:20251018
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 09:00 - 12:30 Uhr\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 09:00 - 12:30 Uhr\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6044@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Recyclinghof
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251018T000000Z
 DTSTART;VALUE=DATE:20251018
 DTEND;VALUE=DATE:20251019
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 13:00 - 16:00 Uhr\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 13:00 - 16:00 Uhr\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6045@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Recyclinghof
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251021T000000Z
 DTSTART;VALUE=DATE:20251021
 DTEND;VALUE=DATE:20251022
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 14:00 - 17:30 Uhr\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 14:00 - 17:30 Uhr\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6046@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Recyclinghof
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251022T000000Z
 DTSTART;VALUE=DATE:20251022
 DTEND;VALUE=DATE:20251023
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 09:00 - 12:30 Uhr\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 09:00 - 12:30 Uhr\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6173@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Papier
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251023T000000Z
 DTSTART;VALUE=DATE:20251023
 DTEND;VALUE=DATE:20251024
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Papier\nGebiet: Birkenfeld\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Papier\nGebiet: Birkenfeld\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6174@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Papier
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251023T000000Z
 DTSTART;VALUE=DATE:20251023
 DTEND;VALUE=DATE:20251024
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Papier\nGebiet: Gräfenhausen\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Papier\nGebiet: Gräfenhausen\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6175@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Leichtverpackungen
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251024T000000Z
 DTSTART;VALUE=DATE:20251024
 DTEND;VALUE=DATE:20251025
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Leichtverpackungen\nGebiet: Birkenfeld\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Leichtverpackungen\nGebiet: Birkenfeld\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6176@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Leichtverpackungen
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251024T000000Z
 DTSTART;VALUE=DATE:20251024
 DTEND;VALUE=DATE:20251025
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Leichtverpackungen\nGebiet: Gräfenhausen\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Leichtverpackungen\nGebiet: Gräfenhausen\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6047@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Recyclinghof
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251025T000000Z
 DTSTART;VALUE=DATE:20251025
 DTEND;VALUE=DATE:20251026
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 08:30 - 11:30 Uhr\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 08:30 - 11:30 Uhr\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6177@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Bio- / Restmüll
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251028T000000Z
 DTSTART;VALUE=DATE:20251028
 DTEND;VALUE=DATE:20251029
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Bio- / Restmüll\nGebiet: Birkenfeld\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Bio- / Restmüll\nGebiet: Birkenfeld\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6178@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Bio- / Restmüll
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251029T000000Z
 DTSTART;VALUE=DATE:20251029
 DTEND;VALUE=DATE:20251030
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Bio- / Restmüll\nGebiet: Gräfenhausen\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Bio- / Restmüll\nGebiet: Gräfenhausen\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6048@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Recyclinghof
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251029T000000Z
 DTSTART;VALUE=DATE:20251029
 DTEND;VALUE=DATE:20251030
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 09:00 - 12:30 Uhr\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 09:00 - 12:30 Uhr\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6049@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Recyclinghof
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251030T000000Z
 DTSTART;VALUE=DATE:20251030
 DTEND;VALUE=DATE:20251031
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 09:00 - 12:30 Uhr\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 09:00 - 12:30 Uhr\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6179@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Glas
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251031T000000Z
 DTSTART;VALUE=DATE:20251031
 DTEND;VALUE=DATE:20251101
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Glas\nGebiet: Birkenfeld\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Glas\nGebiet: Birkenfeld\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6180@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Glas
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251031T000000Z
 DTSTART;VALUE=DATE:20251031
 DTEND;VALUE=DATE:20251101
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Glas\nGebiet: Gräfenhausen\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Glas\nGebiet: Gräfenhausen\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6050@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Recyclinghof
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251105T000000Z
 DTSTART;VALUE=DATE:20251105
 DTEND;VALUE=DATE:20251106
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 14:00 - 17:30 Uhr\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 14:00 - 17:30 Uhr\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6051@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Recyclinghof
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251106T000000Z
 DTSTART;VALUE=DATE:20251106
 DTEND;VALUE=DATE:20251107
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 09:00 - 12:30 Uhr\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 09:00 - 12:30 Uhr\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6052@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Recyclinghof
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251108T000000Z
 DTSTART;VALUE=DATE:20251108
 DTEND;VALUE=DATE:20251109
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 08:30 - 11:30 Uhr\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 08:30 - 11:30 Uhr\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6181@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Bio- / Restmüll
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251111T000000Z
 DTSTART;VALUE=DATE:20251111
 DTEND;VALUE=DATE:20251112
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Bio- / Restmüll\nGebiet: Birkenfeld\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Bio- / Restmüll\nGebiet: Birkenfeld\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6182@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Bio- / Restmüll
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251112T000000Z
 DTSTART;VALUE=DATE:20251112
 DTEND;VALUE=DATE:20251113
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Bio- / Restmüll\nGebiet: Gräfenhausen\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Bio- / Restmüll\nGebiet: Gräfenhausen\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6053@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Recyclinghof
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251112T000000Z
 DTSTART;VALUE=DATE:20251112
 DTEND;VALUE=DATE:20251113
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 14:00 - 17:30 Uhr\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 14:00 - 17:30 Uhr\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6054@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Recyclinghof
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251114T000000Z
 DTSTART;VALUE=DATE:20251114
 DTEND;VALUE=DATE:20251115
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 09:00 - 12:30 Uhr\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 09:00 - 12:30 Uhr\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6055@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Recyclinghof
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251115T000000Z
 DTSTART;VALUE=DATE:20251115
 DTEND;VALUE=DATE:20251116
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 13:00 - 16:00 Uhr\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 13:00 - 16:00 Uhr\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6056@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Recyclinghof
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251118T000000Z
 DTSTART;VALUE=DATE:20251118
 DTEND;VALUE=DATE:20251119
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 14:00 - 17:30 Uhr\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 14:00 - 17:30 Uhr\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6057@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Recyclinghof
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251119T000000Z
 DTSTART;VALUE=DATE:20251119
 DTEND;VALUE=DATE:20251120
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 09:00 - 12:30 Uhr\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 09:00 - 12:30 Uhr\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6183@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Papier
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251120T000000Z
 DTSTART;VALUE=DATE:20251120
 DTEND;VALUE=DATE:20251121
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Papier\nGebiet: Birkenfeld\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Papier\nGebiet: Birkenfeld\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6184@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Papier
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251120T000000Z
 DTSTART;VALUE=DATE:20251120
 DTEND;VALUE=DATE:20251121
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Papier\nGebiet: Gräfenhausen\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
-STATUS:CONFIRMED
-URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
-END:VEVENT
-BEGIN:VEVENT
-UID:6186@abfalltermine-birkenfeld-enzkreis
-SUMMARY:Leichtverpackungen
-DTSTAMP:20250929T040939Z
-DTSTART;VALUE=DATE:20251121
-DTEND;VALUE=DATE:20251122
-CATEGORIES:Abfallentsorgung
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Leichtverpackungen\nGebiet: Gräfenhausen\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Papier\nGebiet: Gräfenhausen\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6185@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Leichtverpackungen
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251121T000000Z
 DTSTART;VALUE=DATE:20251121
 DTEND;VALUE=DATE:20251122
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Leichtverpackungen\nGebiet: Birkenfeld\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Leichtverpackungen\nGebiet: Birkenfeld\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
+STATUS:CONFIRMED
+URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:6186@abfalltermine-birkenfeld-enzkreis
+SUMMARY:Leichtverpackungen
+DTSTAMP:20251121T000000Z
+DTSTART;VALUE=DATE:20251121
+DTEND;VALUE=DATE:20251122
+CATEGORIES:Abfallentsorgung
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+DESCRIPTION:Abfuhrart: Leichtverpackungen\nGebiet: Gräfenhausen\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6058@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Recyclinghof
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251122T000000Z
 DTSTART;VALUE=DATE:20251122
 DTEND;VALUE=DATE:20251123
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 08:30 - 11:30 Uhr\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 08:30 - 11:30 Uhr\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6187@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Bio- / Restmüll
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251125T000000Z
 DTSTART;VALUE=DATE:20251125
 DTEND;VALUE=DATE:20251126
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Bio- / Restmüll\nGebiet: Birkenfeld\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Bio- / Restmüll\nGebiet: Birkenfeld\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6188@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Bio- / Restmüll
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251126T000000Z
 DTSTART;VALUE=DATE:20251126
 DTEND;VALUE=DATE:20251127
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Bio- / Restmüll\nGebiet: Gräfenhausen\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Bio- / Restmüll\nGebiet: Gräfenhausen\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6059@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Recyclinghof
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251126T000000Z
 DTSTART;VALUE=DATE:20251126
 DTEND;VALUE=DATE:20251127
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 09:00 - 12:30 Uhr\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 09:00 - 12:30 Uhr\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6060@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Recyclinghof
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251127T000000Z
 DTSTART;VALUE=DATE:20251127
 DTEND;VALUE=DATE:20251128
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 09:00 - 12:30 Uhr\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 09:00 - 12:30 Uhr\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6189@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Glas
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251128T000000Z
 DTSTART;VALUE=DATE:20251128
 DTEND;VALUE=DATE:20251129
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Glas\nGebiet: Birkenfeld\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Glas\nGebiet: Birkenfeld\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6190@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Glas
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251128T000000Z
 DTSTART;VALUE=DATE:20251128
 DTEND;VALUE=DATE:20251129
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Glas\nGebiet: Gräfenhausen\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Glas\nGebiet: Gräfenhausen\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6061@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Recyclinghof
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251129T000000Z
 DTSTART;VALUE=DATE:20251129
 DTEND;VALUE=DATE:20251130
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 13:00 - 16:00 Uhr\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 13:00 - 16:00 Uhr\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6062@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Recyclinghof
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251203T000000Z
 DTSTART;VALUE=DATE:20251203
 DTEND;VALUE=DATE:20251204
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 14:00 - 17:30 Uhr\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 14:00 - 17:30 Uhr\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6063@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Recyclinghof
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251204T000000Z
 DTSTART;VALUE=DATE:20251204
 DTEND;VALUE=DATE:20251205
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 09:00 - 12:30 Uhr\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 09:00 - 12:30 Uhr\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6064@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Recyclinghof
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251206T000000Z
 DTSTART;VALUE=DATE:20251206
 DTEND;VALUE=DATE:20251207
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 08:30 - 11:30 Uhr\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 08:30 - 11:30 Uhr\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6191@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Bio- / Restmüll
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251209T000000Z
 DTSTART;VALUE=DATE:20251209
 DTEND;VALUE=DATE:20251210
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Bio- / Restmüll\nGebiet: Birkenfeld\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Bio- / Restmüll\nGebiet: Birkenfeld\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6192@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Bio- / Restmüll
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251210T000000Z
 DTSTART;VALUE=DATE:20251210
 DTEND;VALUE=DATE:20251211
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Bio- / Restmüll\nGebiet: Gräfenhausen\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Bio- / Restmüll\nGebiet: Gräfenhausen\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6065@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Recyclinghof
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251210T000000Z
 DTSTART;VALUE=DATE:20251210
 DTEND;VALUE=DATE:20251211
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 14:00 - 17:30 Uhr\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 14:00 - 17:30 Uhr\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6066@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Recyclinghof
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251212T000000Z
 DTSTART;VALUE=DATE:20251212
 DTEND;VALUE=DATE:20251213
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 09:00 - 12:30 Uhr\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 09:00 - 12:30 Uhr\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6067@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Recyclinghof
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251213T000000Z
 DTSTART;VALUE=DATE:20251213
 DTEND;VALUE=DATE:20251214
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 13:00 - 16:00 Uhr\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 13:00 - 16:00 Uhr\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6068@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Recyclinghof
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251216T000000Z
 DTSTART;VALUE=DATE:20251216
 DTEND;VALUE=DATE:20251217
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 14:00 - 17:30 Uhr\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 14:00 - 17:30 Uhr\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6069@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Recyclinghof
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251217T000000Z
 DTSTART;VALUE=DATE:20251217
 DTEND;VALUE=DATE:20251218
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 09:00 - 12:30 Uhr\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 09:00 - 12:30 Uhr\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6193@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Papier
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251218T000000Z
 DTSTART;VALUE=DATE:20251218
 DTEND;VALUE=DATE:20251219
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Papier\nGebiet: Birkenfeld\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Papier\nGebiet: Birkenfeld\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6194@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Papier
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251218T000000Z
 DTSTART;VALUE=DATE:20251218
 DTEND;VALUE=DATE:20251219
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Papier\nGebiet: Gräfenhausen\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
-STATUS:CONFIRMED
-URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
-END:VEVENT
-BEGIN:VEVENT
-UID:6196@abfalltermine-birkenfeld-enzkreis
-SUMMARY:Leichtverpackungen
-DTSTAMP:20250929T040939Z
-DTSTART;VALUE=DATE:20251219
-DTEND;VALUE=DATE:20251220
-CATEGORIES:Abfallentsorgung
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Leichtverpackungen\nGebiet: Gräfenhausen\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Papier\nGebiet: Gräfenhausen\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6195@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Leichtverpackungen
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251219T000000Z
 DTSTART;VALUE=DATE:20251219
 DTEND;VALUE=DATE:20251220
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Leichtverpackungen\nGebiet: Birkenfeld\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Leichtverpackungen\nGebiet: Birkenfeld\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
+STATUS:CONFIRMED
+URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:6196@abfalltermine-birkenfeld-enzkreis
+SUMMARY:Leichtverpackungen
+DTSTAMP:20251219T000000Z
+DTSTART;VALUE=DATE:20251219
+DTEND;VALUE=DATE:20251220
+CATEGORIES:Abfallentsorgung
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+DESCRIPTION:Abfuhrart: Leichtverpackungen\nGebiet: Gräfenhausen\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6070@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Recyclinghof
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251220T000000Z
 DTSTART;VALUE=DATE:20251220
 DTEND;VALUE=DATE:20251221
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 08:30 - 11:30 Uhr\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 08:30 - 11:30 Uhr\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6197@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Bio- / Restmüll
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251223T000000Z
 DTSTART;VALUE=DATE:20251223
 DTEND;VALUE=DATE:20251224
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Bio- / Restmüll\nGebiet: Birkenfeld\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Bio- / Restmüll\nGebiet: Birkenfeld\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6198@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Bio- / Restmüll
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251227T000000Z
 DTSTART;VALUE=DATE:20251227
 DTEND;VALUE=DATE:20251228
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Bio- / Restmüll\nGebiet: Gräfenhausen\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Bio- / Restmüll\nGebiet: Gräfenhausen\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6199@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Glas
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251230T000000Z
 DTSTART;VALUE=DATE:20251230
 DTEND;VALUE=DATE:20251231
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Glas\nGebiet: Birkenfeld\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Glas\nGebiet: Birkenfeld\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:6200@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Glas
-DTSTAMP:20250929T040939Z
+DTSTAMP:20251230T000000Z
 DTSTART;VALUE=DATE:20251230
 DTEND;VALUE=DATE:20251231
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Glas\nGebiet: Gräfenhausen\nStand: 2025-09-29\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-LAST-MODIFIED:20250929T040939Z
+DESCRIPTION:Abfuhrart: Glas\nGebiet: Gräfenhausen\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
