@@ -56,7 +56,7 @@ def escape_ics_text(value: str) -> str:
     return value.replace("\\", "\\\\").replace(";", r"\;").replace(",", r"\,").replace("\n", r"\n")
 
 
-def event_lines(item: dict[str, Any], generated_at: dt.datetime) -> list[str]:
+def event_lines(item: dict[str, Any]) -> list[str]:
     event_date = dt.date.fromisoformat(item["datum"])
     dtstart = event_date.strftime("%Y%m%d")
     dtend = (event_date + dt.timedelta(days=1)).strftime("%Y%m%d")
@@ -68,11 +68,11 @@ def event_lines(item: dict[str, Any], generated_at: dt.datetime) -> list[str]:
     ]
     if remarks:
         description_parts.append(f"Hinweis: {remarks}")
-    description_parts.append(f"Stand: {generated_at.date().isoformat()}")
     description_parts.append(f"Quelle: {WEBSITE_URL}")
     description = "\n".join(description_parts)
     uid = f"{item.get('id', '')}@abfalltermine-birkenfeld-enzkreis"
-    timestamp = generated_at.strftime("%Y%m%dT%H%M%SZ")
+    timestamp_dt = dt.datetime.combine(event_date, dt.time(), tzinfo=dt.timezone.utc)
+    timestamp = timestamp_dt.strftime("%Y%m%dT%H%M%SZ")
     lines = [
         "BEGIN:VEVENT",
         f"UID:{escape_ics_text(uid)}",
@@ -84,7 +84,6 @@ def event_lines(item: dict[str, Any], generated_at: dt.datetime) -> list[str]:
         "TRANSP:TRANSPARENT",
         "X-MICROSOFT-CDO-BUSYSTATUS:FREE",
         f"DESCRIPTION:{escape_ics_text(description)}",
-        f"LAST-MODIFIED:{timestamp}",
         "STATUS:CONFIRMED",
         f"URL:{escape_ics_text(WEBSITE_URL)}",
         "END:VEVENT",
@@ -92,8 +91,16 @@ def event_lines(item: dict[str, Any], generated_at: dt.datetime) -> list[str]:
     return lines
 
 
-def build_calendar(title: str, items: Iterable[dict[str, Any]], generated_at: dt.datetime) -> str:
-    items = sorted(items, key=lambda entry: (entry.get("datum"), entry.get("abfuhrart")))
+def build_calendar(title: str, items: Iterable[dict[str, Any]]) -> str:
+    def sort_key(entry: dict[str, Any]) -> tuple[str, str, str, str]:
+        return (
+            entry.get("datum") or "",
+            entry.get("abfuhrart") or "",
+            entry.get("abfuhrgebiet") or "",
+            str(entry.get("id") or ""),
+        )
+
+    items = sorted(items, key=sort_key)
     cal_desc = f"Abfuhrtermine – {title}"
     cal_lines = [
         "BEGIN:VCALENDAR",
@@ -107,13 +114,12 @@ def build_calendar(title: str, items: Iterable[dict[str, Any]], generated_at: dt
         "X-PUBLISHED-TTL:PT12H",
     ]
     for item in items:
-        cal_lines.extend(event_lines(item, generated_at))
+        cal_lines.extend(event_lines(item))
     cal_lines.append("END:VCALENDAR")
     return "\r\n".join(cal_lines) + "\r\n"
 
 
 def write_calendars(items: list[dict[str, Any]]) -> None:
-    generated_at = dt.datetime.now(dt.timezone.utc)
     OUTPUT_DIR.mkdir(exist_ok=True)
 
     by_area: dict[str, list[dict[str, Any]]] = {}
@@ -123,11 +129,11 @@ def write_calendars(items: list[dict[str, Any]]) -> None:
 
     for area, entries in sorted(by_area.items()):
         title = f"Abfalltermine {area}"
-        calendar_text = build_calendar(title, entries, generated_at)
+        calendar_text = build_calendar(title, entries)
         filename = OUTPUT_DIR / f"{slugify(area)}.ics"
         filename.write_text(calendar_text, encoding="utf-8")
 
-    all_calendar = build_calendar("Abfalltermine Birkenfeld (gesamt)", items, generated_at)
+    all_calendar = build_calendar("Abfalltermine Birkenfeld (gesamt)", items)
     (OUTPUT_DIR / "alle.ics").write_text(all_calendar, encoding="utf-8")
 
     summary_lines = ["Generierte Kalender:"]
