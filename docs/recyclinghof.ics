@@ -8,19 +8,6 @@ X-WR-CALDESC:Abfuhrtermine – Abfalltermine Recyclinghof
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:6055@abfalltermine-birkenfeld-enzkreis
-SUMMARY:Recyclinghof
-DTSTAMP:20251115T000000Z
-DTSTART;VALUE=DATE:20251115
-DTEND;VALUE=DATE:20251116
-CATEGORIES:Abfallentsorgung
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 13:00 - 16:00 Uhr\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-STATUS:CONFIRMED
-URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
-END:VEVENT
-BEGIN:VEVENT
 UID:6056@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Recyclinghof
 DTSTAMP:20251118T000000Z
