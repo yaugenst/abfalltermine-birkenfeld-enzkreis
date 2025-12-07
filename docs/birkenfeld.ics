@@ -164,6 +164,19 @@ STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
+UID:6375@abfalltermine-birkenfeld-enzkreis
+SUMMARY:Leichtverpackungen
+DTSTAMP:20260213T000000Z
+DTSTART;VALUE=DATE:20260213
+DTEND;VALUE=DATE:20260214
+CATEGORIES:Abfallentsorgung
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+DESCRIPTION:Abfuhrart: Leichtverpackungen\nGebiet: Birkenfeld\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
+STATUS:CONFIRMED
+URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
+END:VEVENT
+BEGIN:VEVENT
 UID:6377@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Bio- / Restmüll
 DTSTAMP:20260217T000000Z
@@ -602,6 +615,19 @@ CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 DESCRIPTION:Abfuhrart: Papier\nGebiet: Birkenfeld\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
+STATUS:CONFIRMED
+URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:6445@abfalltermine-birkenfeld-enzkreis
+SUMMARY:Leichtverpackungen
+DTSTAMP:20260828T000000Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+CATEGORIES:Abfallentsorgung
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+DESCRIPTION:Abfuhrart: Leichtverpackungen\nGebiet: Birkenfeld\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
