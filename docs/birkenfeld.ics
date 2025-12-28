@@ -307,6 +307,19 @@ STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
+UID:6405@abfalltermine-birkenfeld-enzkreis
+SUMMARY:Leichtverpackungen
+DTSTAMP:20260508T000000Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
+CATEGORIES:Abfallentsorgung
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+DESCRIPTION:Abfuhrart: Leichtverpackungen\nGebiet: Birkenfeld\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
+STATUS:CONFIRMED
+URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
+END:VEVENT
+BEGIN:VEVENT
 UID:6407@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Bio- / Restmüll
 DTSTAMP:20260512T000000Z
