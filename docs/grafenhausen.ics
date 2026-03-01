@@ -164,6 +164,19 @@ STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
+UID:6404@abfalltermine-birkenfeld-enzkreis
+SUMMARY:Papier
+DTSTAMP:20260507T000000Z
+DTSTART;VALUE=DATE:20260507
+DTEND;VALUE=DATE:20260508
+CATEGORIES:Abfallentsorgung
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+DESCRIPTION:Abfuhrart: Papier\nGebiet: Gräfenhausen\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
+STATUS:CONFIRMED
+URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
+END:VEVENT
+BEGIN:VEVENT
 UID:6406@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Leichtverpackungen
 DTSTAMP:20260508T000000Z
