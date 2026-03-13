@@ -8,19 +8,6 @@ X-WR-CALDESC:Abfuhrtermine – Abfalltermine Birkenfeld
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:6383@abfalltermine-birkenfeld-enzkreis
-SUMMARY:Papier
-DTSTAMP:20260312T000000Z
-DTSTART;VALUE=DATE:20260312
-DTEND;VALUE=DATE:20260313
-CATEGORIES:Abfallentsorgung
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Papier\nGebiet: Birkenfeld\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-STATUS:CONFIRMED
-URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
-END:VEVENT
-BEGIN:VEVENT
 UID:6385@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Leichtverpackungen
 DTSTAMP:20260313T000000Z
