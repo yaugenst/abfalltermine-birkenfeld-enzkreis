@@ -8,32 +8,6 @@ X-WR-CALDESC:Abfuhrtermine – Abfalltermine Birkenfeld (gesamt)
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:6389@abfalltermine-birkenfeld-enzkreis
-SUMMARY:Glas
-DTSTAMP:20260320T000000Z
-DTSTART;VALUE=DATE:20260320
-DTEND;VALUE=DATE:20260321
-CATEGORIES:Abfallentsorgung
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Glas\nGebiet: Birkenfeld\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-STATUS:CONFIRMED
-URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
-END:VEVENT
-BEGIN:VEVENT
-UID:6390@abfalltermine-birkenfeld-enzkreis
-SUMMARY:Glas
-DTSTAMP:20260320T000000Z
-DTSTART;VALUE=DATE:20260320
-DTEND;VALUE=DATE:20260321
-CATEGORIES:Abfallentsorgung
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Glas\nGebiet: Gräfenhausen\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-STATUS:CONFIRMED
-URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
-END:VEVENT
-BEGIN:VEVENT
 UID:6524@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Recyclinghof
 DTSTAMP:20260321T000000Z
@@ -1308,7 +1282,7 @@ STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
-UID:6435@abfalltermine-birkenfeld-enzkreis
+UID:6436@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Leichtverpackungen
 DTSTAMP:20260731T000000Z
 DTSTART;VALUE=DATE:20260731
@@ -1316,7 +1290,7 @@ DTEND;VALUE=DATE:20260801
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Leichtverpackungen\nGebiet: Birkenfeld\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
+DESCRIPTION:Abfuhrart: Leichtverpackungen\nGebiet: Gräfenhausen\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
