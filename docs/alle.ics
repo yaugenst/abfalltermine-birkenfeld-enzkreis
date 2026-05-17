@@ -8,45 +8,6 @@ X-WR-CALDESC:Abfuhrtermine – Abfalltermine Birkenfeld (gesamt)
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:6409@abfalltermine-birkenfeld-enzkreis
-SUMMARY:Glas
-DTSTAMP:20260516T000000Z
-DTSTART;VALUE=DATE:20260516
-DTEND;VALUE=DATE:20260517
-CATEGORIES:Abfallentsorgung
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Glas\nGebiet: Birkenfeld\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-STATUS:CONFIRMED
-URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
-END:VEVENT
-BEGIN:VEVENT
-UID:6410@abfalltermine-birkenfeld-enzkreis
-SUMMARY:Glas
-DTSTAMP:20260516T000000Z
-DTSTART;VALUE=DATE:20260516
-DTEND;VALUE=DATE:20260517
-CATEGORIES:Abfallentsorgung
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Glas\nGebiet: Gräfenhausen\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-STATUS:CONFIRMED
-URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
-END:VEVENT
-BEGIN:VEVENT
-UID:6545@abfalltermine-birkenfeld-enzkreis
-SUMMARY:Recyclinghof
-DTSTAMP:20260516T000000Z
-DTSTART;VALUE=DATE:20260516
-DTEND;VALUE=DATE:20260517
-CATEGORIES:Abfallentsorgung
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 13:00 - 16:00 Uhr\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-STATUS:CONFIRMED
-URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
-END:VEVENT
-BEGIN:VEVENT
 UID:6546@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Recyclinghof
 DTSTAMP:20260520T000000Z
@@ -1334,7 +1295,7 @@ STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
-UID:6455@abfalltermine-birkenfeld-enzkreis
+UID:6456@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Leichtverpackungen
 DTSTAMP:20260925T000000Z
 DTSTART;VALUE=DATE:20260925
@@ -1342,7 +1303,7 @@ DTEND;VALUE=DATE:20260926
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Leichtverpackungen\nGebiet: Birkenfeld\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
+DESCRIPTION:Abfuhrart: Leichtverpackungen\nGebiet: Gräfenhausen\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
