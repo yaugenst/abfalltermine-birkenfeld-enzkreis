@@ -307,19 +307,6 @@ STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
-UID:6459@abfalltermine-birkenfeld-enzkreis
-SUMMARY:Glas
-DTSTAMP:20261002T000000Z
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261003
-CATEGORIES:Abfallentsorgung
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Glas\nGebiet: Birkenfeld\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-STATUS:CONFIRMED
-URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
-END:VEVENT
-BEGIN:VEVENT
 UID:6461@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Bio- / Restmüll
 DTSTAMP:20261013T000000Z
