@@ -307,19 +307,6 @@ STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
-UID:6468@abfalltermine-birkenfeld-enzkreis
-SUMMARY:Bio- / Restmüll
-DTSTAMP:20261028T000000Z
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261029
-CATEGORIES:Abfallentsorgung
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Bio- / Restmüll\nGebiet: Gräfenhausen\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-STATUS:CONFIRMED
-URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
-END:VEVENT
-BEGIN:VEVENT
 UID:6470@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Glas
 DTSTAMP:20261030T000000Z
