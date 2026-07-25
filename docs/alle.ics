@@ -8,19 +8,6 @@ X-WR-CALDESC:Abfuhrtermine – Abfalltermine Birkenfeld (gesamt)
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:6573@abfalltermine-birkenfeld-enzkreis
-SUMMARY:Recyclinghof
-DTSTAMP:20260724T000000Z
-DTSTART;VALUE=DATE:20260724
-DTEND;VALUE=DATE:20260725
-CATEGORIES:Abfallentsorgung
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Recyclinghof\nGebiet: Recyclinghof\nHinweis: 09:00 - 12:30 Uhr\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
-STATUS:CONFIRMED
-URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
-END:VEVENT
-BEGIN:VEVENT
 UID:6574@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Recyclinghof
 DTSTAMP:20260725T000000Z
@@ -1321,7 +1308,7 @@ STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
 BEGIN:VEVENT
-UID:6480@abfalltermine-birkenfeld-enzkreis
+UID:6479@abfalltermine-birkenfeld-enzkreis
 SUMMARY:Glas
 DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261127
@@ -1329,7 +1316,7 @@ DTEND;VALUE=DATE:20261128
 CATEGORIES:Abfallentsorgung
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DESCRIPTION:Abfuhrart: Glas\nGebiet: Gräfenhausen\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
+DESCRIPTION:Abfuhrart: Glas\nGebiet: Birkenfeld\nQuelle: https://www.birkenfeld-enzkreis.de/abfallkalender/
 STATUS:CONFIRMED
 URL:https://www.birkenfeld-enzkreis.de/abfallkalender/
 END:VEVENT
